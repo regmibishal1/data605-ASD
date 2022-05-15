@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# IDE stuff
+.vs/
+
+# dask worker stuff
+dask-worker-space/
+
